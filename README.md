@@ -1,6 +1,6 @@
 # Quadruped Spider Robot
 
-![Spider Robot](IMG_1272.jpg)
+<img width="1179" height="1451" alt="IMG_1272" src="https://github.com/user-attachments/assets/f929e8d6-cc07-4266-8d5a-cb2376de141d" />
 
 Welcome to the repository for my custom-built Quadruped Spider Robot! This project is a complete robotics platform featuring a 3D-printed chassis and a fully custom-designed Printed Circuit Board (PCB).
 
@@ -16,10 +16,10 @@ Welcome to the repository for my custom-built Quadruped Spider Robot! This proje
 To ensure stable power delivery to all 12 servos and keep the form factor compact, I designed and assembled a custom PCB.
 
 **PCB Top View:**
-![PCB Top View](IMG_3312.jpg)
+<img width="3024" height="4032" alt="IMG_3312" src="https://github.com/user-attachments/assets/6e3345c5-753e-4091-a538-5938418c70bc" />
 
 **PCB Bottom View:**
-![PCB Bottom View](IMG_3313.jpg)
+<img width="3024" height="4032" alt="IMG_3313" src="https://github.com/user-attachments/assets/f13c50d8-3f89-4029-b026-bb6768b39f33" />
 
 ## 🎥 Video Demonstration
 
