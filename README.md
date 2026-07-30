@@ -1,27 +1,32 @@
-# 🕷️ Arduino Quadruped Robot – 12 DOF Spider
+# Quadruped Spider Robot
 
-A 2016 project, quadrupedal robot designed to explore environment with autonomous navigation. Built from scratch using an Arduino Nano, high-torque servos, and ultrasonic sensing for obstacle avoidance, inspired from various open-source projects.
+![Spider Robot](IMG_1272.jpg)
+
+Welcome to the repository for my custom-built Quadruped Spider Robot! This project is a complete robotics platform featuring a 3D-printed chassis and a fully custom-designed Printed Circuit Board (PCB).
+
+## 🕷️ Features
+
+*   **Brain:** Powered by the highly capable **ESP32 microcontroller**, providing robust processing power for complex walking algorithms and wireless connectivity (Wi-Fi/Bluetooth).
+*   **Custom PCB:** A completely customized, purpose-built motherboard. It neatly integrates power management, logic, and signal routing, eliminating messy wiring.
+*   **Servo Control:** Includes an integrated **PCA module** (PWM servo driver) designed to control **12 servo motors** simultaneously. This allows for 3 degrees of freedom (3DOF) per leg, enabling smooth and precise quadrupedal locomotion.
+*   **Display:** Features a dedicated input interface for an **OLED screen**, currently used to animate the robot's "eyes" and display basic system status or debugging information.
+
+## ⚡ Custom Hardware
+
+To ensure stable power delivery to all 12 servos and keep the form factor compact, I designed and assembled a custom PCB.
+
+**PCB Top View:**
+![PCB Top View](IMG_3312.jpg)
+
+**PCB Bottom View:**
+![PCB Bottom View](IMG_3313.jpg)
+
+## 🎥 Video Demonstration
+
+Check out the spider robot in action!
+
+<!-- Replace the link below with your actual video link (e.g., YouTube, Vimeo) -->
+[**▶ Watch the Demo Video Here**](#)
 
 ---
-
-## 🎥 Demo Video
-
-<p align="center"> 
-  <a href="https://youtu.be/bV3iG244wSU" target="_blank"> 
-    <img src="https://img.youtube.com/vi/bV3iG244wSU/hqdefault.jpg" alt="Watch the video" width="600"> 
-  </a> 
-</p>
-
-Watch the robot in action as it performs walking gaits and autonomously navigates its environment!
-
----
-
-## 🔬 Project Overview
-This quadruped robot uses:
-
-1 Arduino Nano as the central processing unit.
-
-12 Servomotors (3 per leg) to create structure for fluid movement.
-
-An Ultrasonic Distance Sensor (HC-SR04) for detecting obstacles and autonomous navigation.
-
+*Project created by Marco La Barbera*
