@@ -26,7 +26,6 @@ To ensure stable power delivery to all 12 servos and keep the form factor compac
 Check out the spider robot in action!
 
 <!-- Replace the link below with your actual video link (e.g., YouTube, Vimeo) -->
-[**▶ Watch the Demo Video Here**](#)
-
+[**▶ Watch the Demo Video Here**](https://youtube.com/shorts/jzssCQmDDpo?feature=share)
 ---
 *Project created by Marco La Barbera*
